@@ -14,6 +14,5 @@
 - Using SVG icon for all PWA icon sizes for better scaling
 
 ## Best Practices
-- Implemented environment variable usage for sensitive data
-- Added proper .gitignore rules for environment files
 - Configured PWA for better mobile experience and offline capabilities
+- Simplified deployment by including environment variables directly
