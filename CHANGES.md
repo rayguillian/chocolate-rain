@@ -16,3 +16,9 @@
 ## Best Practices
 - Configured PWA for better mobile experience and offline capabilities
 - Simplified deployment by including environment variables directly
+
+## GitHub Pages Deployment Setup
+- Added GitHub Actions workflow for automated deployment
+- Configured workflow to build and deploy to GitHub Pages
+- Set up Node.js environment and build process in workflow
+- Configured Pages permissions and deployment settings
